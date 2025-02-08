@@ -1,0 +1,4 @@
+menuconfig CJSON
+    bool "JSON parser from DaveGamble/cJSON"
+    help
+        Ultralightweight JSON parser in ANSI C. Used by Mender MCU Zephyr module.
