@@ -7,4 +7,4 @@ package.json @mendersoftware/client-dependabot-reviewers
 package-lock.json @mendersoftware/client-dependabot-reviewers
 
 # Git submodules
-cJSON/ @mendersoftware/client-dependabot-reviewers
+/cJSON @mendersoftware/client-dependabot-reviewers
